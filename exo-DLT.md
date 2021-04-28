@@ -1,0 +1,7 @@
+1- Un arbre de Merkle nécessitant un nombre pair de hashes, si l'on a seulement 3 transactions pour générer le Merkle root, on doit dupliquer la transaction qui n'a pas de paire pour rendre le hachage possible. On aura toujours 3 transactions, mais on aura bien les données nécessaires pour le hachage qui permettra la construction du merkle root.
+
+2- Un nouveau noeud se connecte au réseau Bitcoin via un noeud d'amorçage. Ce sont des noeuds qui ne sont pas fonctionnels en matière d'implémentation du système de transactions mais qui servent de trackers. Ils localisent les adresses IP et permettent de mettre en relation les différents noeuds entre eux, et notamment d'intégrer les nouveaux noeuds au réseau en leur fournissant des adresses IP de noeuds actifs via lesquels ils peuvent accéder au réseau Bitcoin. Ces noeuds d'amorçage sont constamment connectés au réseau.
+
+3- Wei Dai est un ingénieur informatique spécialisé dans la cryptographie ayant directement influencé la création du Bitcoin car directement approché par Satoshi Nakamoto en 2008. Wei Dai a produits plusieurs travaux ayant concrètement impacté le Bitcoin, notamment Crypto ++ en 1995, une librairie open-source de cryptographie algorythmique, VMAC en 2007,  un modèle de code d'authentification de message basé sur le chiffrement par bloc. Sa principal contribution au Bitcoin étant son "b-money, an anonymous, distributed electronic cash system" publié en 1998.
+
+4- 
